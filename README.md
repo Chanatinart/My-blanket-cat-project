@@ -1,4 +1,4 @@
-# My-blanket-cat-project
+# My-blanket-cat-project for The Odin project
 
 Start 23-25 Jun 22
 
